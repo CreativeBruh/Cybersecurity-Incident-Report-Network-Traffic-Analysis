@@ -1,8 +1,5 @@
 # Cybersecurity-Incident-Report-Network-Traffic-Analysis
 Incident report analyzing an ICMP‑based DoS attack using the NIST Cybersecurity Framework. Includes root‑cause analysis, firewall misconfiguration findings, and recommended improvements such as ICMP rate‑limiting, monitoring, and IDS/IPS controls.
-Cybersecurity-Incident-Report-Network-Traffic-Analysis
-
-Incident report analyzing an ICMP‑based DoS attack using the NIST Cybersecurity Framework. Includes root‑cause analysis, firewall misconfiguration findings, and recommended improvements such as ICMP rate‑limiting, monitoring, and IDS/IPS controls.
 📘 Project Overview
 
 This project documents a simulated network security incident involving an ICMP‑based Denial of Service (DoS) attack that disrupted a multimedia company’s internal network for two hours. The report applies the National Institute of Standards and Technology Cybersecurity Framework (NIST CSF) to analyze the event, identify vulnerabilities, and recommend improvements to strengthen the organization’s security posture.
