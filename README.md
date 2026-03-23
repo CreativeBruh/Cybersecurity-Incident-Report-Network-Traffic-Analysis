@@ -79,4 +79,4 @@ Recover
 
 📚 Lessons Learned
 
-This incident highlights the importance of proactive firewall configuration, continuous monitoring, and structured response planning. Applying the NIST CSF provides a clear framework for identifying weaknesses, improving defenses, and strengthening overall network resilience
+    This incident highlights the importance of proactive firewall configuration, continuous monitoring, and structured response planning. Applying the NIST CSF provides a clear framework for identifying weaknesses, improving defenses, and strengthening overall network resilience
